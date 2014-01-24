@@ -14,8 +14,6 @@
  Print "</table>"; 
 
  
-   ?>
-   <body>
-   	<img src"kinurity\rgb1.jpg">
-   </body>
+?>
+
 
